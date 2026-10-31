@@ -61,9 +61,7 @@ The project includes data inspection and analysis such as:
 - Value counts for categorical columns
 - Correlation and covariance analysis
 - Sweetviz HTML report
-- Data visualizations and confusion matrix
-- 
-- 
+- Data visualizations and confusion matrix 
 Model Workflow
 1. Load the employee CSV dataset.
 2. Explore and preprocess the data.
