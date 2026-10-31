@@ -16,7 +16,7 @@ Project Results
 - Dataset size: 1,000 records
 - Input features: 13
 - Target classes: 4
-- Reported test accuracy: 94.50% (200 test records)
+- Reported test accuracy: 94.50%
 The accuracy above is the result stated in the submitted project report. Results may vary if the dataset, preprocessing, or train/test split is changed.
 Technologies and Libraries
 - Python
